@@ -9,7 +9,7 @@ To implement the Rat in a Maze problem using backtracking and find all possible 
 2. 
 3. 
 4.  
-5.   
+
 
 ## Program:
 ```
